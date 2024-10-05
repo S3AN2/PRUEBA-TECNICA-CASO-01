@@ -17,8 +17,8 @@ Puedes acceder al código fuente del proyecto en el siguiente enlace de GitHub:
 
 - Java 17+
 - Maven 3.x
-- Spring Boot 2.x
-- Base de datos MySQL u otra compatible con JPA
+- Spring Boot 2.
+- Base de datos h2 
 - Postman (para probar la API)
 
 ## Instalación
